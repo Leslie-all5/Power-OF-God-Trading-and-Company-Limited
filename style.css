@@ -28,6 +28,10 @@ body {
   margin: 0 auto;
 }
 
+.container p {
+  text-align: center;
+}
+
 section {
   padding: var(--padding-section);
 }
